@@ -1,6 +1,7 @@
 #include <iostream> 
 using namespace std;
-class Base {
+class Base
+{
 public:
 void show() {
 cout << "Base public function\n";
